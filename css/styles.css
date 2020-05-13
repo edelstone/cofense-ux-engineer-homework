@@ -35,7 +35,7 @@ html {
 
 .c-card__link {
   align-items: flex-end;
-  background: url(/images/thumbnail.png) 0% 50% no-repeat;
+  background: url(../images/thumbnail.png) 0% 50% no-repeat;
   background-size: cover;
   border-radius: .8rem;
   bottom: 0;
