@@ -1,4 +1,4 @@
-[<img src="/images/screenshot.png" />](https://edelstone.github.io/cofense-ux-engineer-homework)
+[<img src="/images/final-product.png" />](https://edelstone.github.io/cofense-ux-engineer-homework)
 
 # UX Engineer Homework Assignment
 
